@@ -32,6 +32,6 @@ variable "region_ami_map" {
 variable "web_sg" {
   type = list
 }
-variable "user-data" {
+variable "user_data" {
   
 }
